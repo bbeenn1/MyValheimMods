@@ -1,0 +1,19 @@
+﻿[Message:   BepInEx] BepInEx 5.4.6.0 - valheim
+[Info   :   BepInEx] Running under Unity v2019.4.20.7197120
+[Info   :   BepInEx] CLR runtime version: 4.0.30319.42000
+[Info   :   BepInEx] Supports SRE: True
+[Info   :   BepInEx] System platform: Bits64, Windows
+[Message:   BepInEx] Preloader started
+[Info   :   BepInEx] 1 patcher plugin loaded
+[Info   :   BepInEx] Patching [UnityEngine.CoreModule] with [BepInEx.Chainloader]
+[Message:   BepInEx] Preloader finished
+[Message:   BepInEx] Chainloader ready
+[Message:   BepInEx] Chainloader started
+[Info   :   BepInEx] 2 plugins to load
+[Info   :   BepInEx] Loading [SkToolbox 1.2.0.0]
+[Info   :   BepInEx] Loading [Valheim Plus 0.7]
+[Info   :Valheim Plus] Trying to load the configuration file
+[Info   :Valheim Plus] Configuration file found, loading configuration.
+[Info   :Valheim Plus] Configuration file loaded succesfully.
+[Info   :Valheim Plus] ValheimPlus [0.7] is up to date.
+[Message:   BepInEx] Chainloader startup complete
